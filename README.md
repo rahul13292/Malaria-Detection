@@ -1,4 +1,5 @@
 # Malaria-Detection
+
 Introduction
 Deep learning methods have resulted in significant advancement in the field of computer vision, to the extent that the accuracy of deep learning programs have surpassed human capabilities in some object-recognition tasks. (He et al., 2015). The aim of this project is to evaluate the performance of convolutional neural networks in diagnosing malaria from thick blood smears. The algorithms/models being tested are, YOLOv2 and YOLOv3 trained using the Turicreate and ImageAI frameworks for the Python language.
 
